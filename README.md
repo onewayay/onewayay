@@ -72,7 +72,7 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 </p>
 
 🔗 [Visit Project](https://pokemon-cc.netlify.app/)  
-📘 [Repository](https://github.com/onewayay/POKEMON-CARD-COLLECTION)
+📘 [Repository](https://github.com/FRONTENDBOOTCAMP-13th/JS-04-404-Not-Found)
 
 ---
 
