@@ -120,8 +120,8 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 ## 📊 Stats & Metrics
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=onewayay&show_icons=true&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onewayay&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=onewayay&show_icons=true&hide_border=true&count_private=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onewayay&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 <p align="left">
