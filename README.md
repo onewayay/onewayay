@@ -51,6 +51,8 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 ## 🎨 Front-end Projects
 
 ### 🌿 **Ugveg: 흙내음 상점**
+> 팀 프로젝트
+
 <strong>React · TypeScript · Next.js · Tailwind</strong>
 
 버려지는 못난이 농산물을 합리적인 가격에 제공하고, 그 농산물로 만든 레시피를 함께 나누는 커뮤니티 기반 쇼핑 플랫폼
@@ -63,7 +65,25 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 
 ---
 
+### 🌙 **WLC MOONLIGHT**
+> 개인 프로젝트
+
+<strong>React · Local Storage </strong>
+
+웨스트민스터 대요리문답 1문부터 196문까지의 한글 · 영문 문답과 각 문답에 인용된 성경 근거 구절을 함께 제공하는 신앙 학습 사이트
+
+<p>
+  <img width="500" src="https://raw.githubusercontent.com/onewayay/onewayay/main/assets/wlc-moonlight-cover.png" alt="WLC-MOONLIGHT" />
+</p>
+
+🔗 [Visit Project](https://wlcmoonlight.vercel.app/)  
+📘 [Repository](https://github.com/onewayay/WLC-MOONLIGHT)
+
+---
+
 ### 🃏 **Pokémon Card Collection**
+> 팀 프로젝트
+
 <strong>HTML · CSS · JavaScript · Local Storage</strong>
 
 Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집한 포켓몬을 도감에서 확인하고, 그 외 포켓몬 타입별 분류하여 포켓몬 정보를 수집하는 추억의 포켓몬 카드 컬렉션 게임
@@ -77,6 +97,8 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 ---
 
 ### 🗂️ **Mudo Playground: ALL MUDO**
+> 팀 프로젝트
+
 <strong>React · TypeScript · GSAP</strong>
 
 무한도전 종영 10주년을 맞아 없없무(없는게 없는 무한도전)의 짤들을 통해 미니 게임들과 상황별 이미지 찾기 기능을 제공하는 무한도전 팬 페이지
@@ -90,6 +112,8 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 ---
 
 ### 🍔 **킹버거**
+> 팀 프로젝트
+
 <strong>HTML · Tailwind · JavaScript</strong>
 
 버거킹 공식 웹사이트를 클론하여 UI 디자인 및 인터랙션을 구현한 프로젝트. 최신 UI/UX 트렌드를 반영한 반응형 웹사이트 제작 및 컴포넌트 기반 개발
@@ -99,21 +123,36 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 
 ---
 
-## 🧩 Publishing Projects
+## ✍️ Study
 
-### 💡 **[2023] 임한길 웹 퍼블리셔 지원용 포트폴리오**
-<strong>HTML · CSS · JavaScript</strong>
+### 🦎 NoBreath-DeepDive
 
-[2023] 웹 퍼블리셔 지원을 위한 포트폴리오와 포트폴리오용 프로젝트 페이지 '에몬스 침대', '한국 도자기', 'INNOFORCE' 소개
+모던 자바스크립트 딥다이브 스터디
 
-🔗 [Visit Project](https://onewayay.github.io/2023-publisher-portfolio/)  
+🔗 [Repository](https://github.com/NoBreath-DeepDive/DeepDive)
 
 ---
 
-## ✨ 2025 Goals
+### 💻 CodingTest_JS
+
+자바스크립트 코딩테스트 연습
+
+🔗 [Repository](https://github.com/onewayay/CodingTest_JS)
+
+---
+
+### 🧩 한 입 시리즈
+
+- 한 입 크기로 잘라먹는 리액트
+- 한 입 크기로 잘라먹는 타입스크립트
+- 한 입 크기로 잘라먹는 Next.js
+
+---
+
+## 🔎 Current Focus
+
 🎯 UI/UX & Web Interaction 강화  
-🎯 JavaScript 심화  
-🎯 React · TypeScript · Next.js SSR/SSG 학습
+🎯 JavaScript · React · TypeScript · Next.js 심화  
 
 ---
 
@@ -133,7 +172,6 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 
 ## 📫 Contact
 📩 Email: onewayay@naver.com  
-📝 Velog: https://velog.io/@onewayay  
 
 ---
 
