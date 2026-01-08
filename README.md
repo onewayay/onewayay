@@ -63,6 +63,17 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 🔗 [Visit Project](https://ugveg.vercel.app/)  
 📘 [Repository](https://github.com/FRONTENDBOOTCAMP-13th/Final-13-13tachi)
 
+<details>
+<summary><strong>🛠 담당 기능 보기</strong></summary>
+
+- 메인(Index) 페이지 개발
+- 상품 리스트 및 상품 상세 페이지 개발
+- 상품 검색 기능 구현
+- 상품–레시피 연동 로직 구현
+- 상품 찜하기 및 개별 주문 기능 구현
+
+</details>
+
 ---
 
 ### 🌙 **WLC MOONLIGHT**
@@ -94,6 +105,17 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 🔗 [Visit Project](https://pokemon-cc.netlify.app/)  
 📘 [Repository](https://github.com/FRONTENDBOOTCAMP-13th/JS-04-404-Not-Found)
 
+<details>
+<summary><strong>🛠 담당 기능 보기</strong></summary>
+
+- 프로젝트 전체 로직 설계
+- 프로젝트 인트로 페이지
+- Town 페이지 캐릭터 이동 및 페이지 이동 기능 구현
+- 공통 스타일 시스템 구축
+- 공통 기능 구현 (Local Storage 기반 사용자 정보 및 도감 get/set, 뒤로가기 버튼 및 소리 on/off 버튼 기능)
+
+</details>
+
 ---
 
 ### 🗂️ **Mudo Playground: ALL MUDO**
@@ -109,6 +131,15 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 🔗 [Visit Project](https://mudo-playground.vercel.app/)  
 📘 [Repository](https://github.com/mudo-labs/mudo-playground)
 
+<details>
+<summary><strong>🛠 담당 기능 보기</strong></summary>
+
+- 프로젝트 기획
+- 메인(Index) 페이지 개발
+- 짤 순서 맞추기 미니게임 로직 구현
+
+</details>
+
 ---
 
 ### 🍔 **킹버거**
@@ -120,6 +151,15 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 
 🔗 [Visit Project](https://1rem.netlify.app/)  
 📘 [Repository](https://github.com/FRONTENDBOOTCAMP-13th/1rem)
+
+<details>
+<summary><strong>🛠 담당 기능 보기</strong></summary>
+
+- STORY 하위의 모든 페이지 (브랜드, Why 버거킹, ESG 경영, Smart QSR, 수상실적, 광고영상)
+- 폰트 설정 및 관리
+- 폴더 구조 설계
+
+</details>
 
 ---
 
