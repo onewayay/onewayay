@@ -90,6 +90,18 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 🔗 [Visit Project](https://wlcmoonlight.vercel.app/)  
 📘 [Repository](https://github.com/onewayay/WLC-MOONLIGHT)
 
+<details>
+<summary><strong>🛠 주요 기능 보기</strong></summary>
+
+- 웨스트민스터 대요리문답 전체 문답의 분석된 구조·구문 및 성경 근거 구절 제공
+- 한글 / 영어 문답 전환 기능 구현
+- 다크 / 라이트 테마 전환 기능 구현
+- 문항 번호 및 키워드 기반 문답 검색 기능 구현
+- 각주 성경 구절과 해당 문답 간 매칭 기능 제공
+- 사용자별 최근 열람한 문답 기록 제공
+
+</details>
+
 ---
 
 ### 🃏 **Pokémon Card Collection**
