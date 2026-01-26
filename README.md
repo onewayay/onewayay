@@ -13,7 +13,7 @@
 깔끔한 UI, 자연스러운 인터랙션, 그리고 사용자 친화적인 웹 경험을 좋아합니다.  
 React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습니다.
 
-<h2 align="center">
+<h2>
   ➡️ <a
     href="https://your-portfolio.vercel.app"
     style="text-decoration: none; color: inherit;"
@@ -67,8 +67,9 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 
 <details>
   
-<summary><h3>🌿 UgVeg: 흙내음 상점</h3></summary>
-  
+<summary><strong>🌿 UgVeg: 흙내음 상점</strong></summary>
+<br/>
+
 > 팀 프로젝트
 
 <strong>React · TypeScript · Next.js · Tailwind</strong>
@@ -85,7 +86,8 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 
 <details>
   
-<summary><h3>🌙 WLC MOONLIGHT</h3></summary>
+<summary><strong>🌙 WLC MOONLIGHT</strong></summary>
+<br/>
 
 > 개인 프로젝트
 
@@ -103,7 +105,8 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 </details>
 
 <details>
-<summary><h3>🃏 Pokémon Card Collection</h3></summary>
+<summary><strong>🃏 Pokémon Card Collection</strong></summary>
+<br/>
   
 > 팀 프로젝트
 
@@ -120,7 +123,8 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 </details>
 
 <details>
-<summary><h3>🗂️ Mudo Playground: ALL MUDO</h3></summary>
+<summary><strong>🗂️ Mudo Playground: ALL MUDO</strong></summary>
+<br/>
   
 > 팀 프로젝트
 
@@ -138,7 +142,8 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 
 <details>
   
-<summary><h3>🍔 킹버거</h3></summary>
+<summary><strong>🍔 킹버거</strong></summary>
+<br/>
 
 > 팀 프로젝트
 
