@@ -15,7 +15,7 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 
 <h2>
   ➡️ <a
-    href="https://your-portfolio.vercel.app"
+    href="https://portfolio-onewayay.vercel.app/"
     style="text-decoration: none; color: inherit;"
   >
     포트폴리오 바로가기
@@ -62,7 +62,7 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 👉 프로젝트 상세 내용은 포트폴리오 사이트에서 확인하세요.
 
 <p>
-  🔗 <a href="https://your-portfolio.vercel.app"><strong>포트폴리오 사이트 바로가기</strong></a>
+  🔗 <a href="https://portfolio-onewayay.vercel.app/"><strong>포트폴리오 사이트 바로가기</strong></a>
 </p>
 
 <details>
