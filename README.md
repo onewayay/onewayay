@@ -13,6 +13,15 @@
 깔끔한 UI, 자연스러운 인터랙션, 그리고 사용자 친화적인 웹 경험을 좋아합니다.  
 React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습니다.
 
+<h2 align="center">
+  ➡️ <a
+    href="https://your-portfolio.vercel.app"
+    style="text-decoration: none; color: inherit;"
+  >
+    포트폴리오 바로가기
+  </a>
+</h2>
+
 ---
 
 ## 🛠 Tech Stack
@@ -48,9 +57,18 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 
 ---
 
-## 🎨 Front-end Projects
+## 🎨 Projects
 
-### 🌿 **Ugveg: 흙내음 상점**
+👉 프로젝트 상세 내용은 포트폴리오 사이트에서 확인하세요.
+
+<p>
+  🔗 <a href="https://your-portfolio.vercel.app"><strong>포트폴리오 사이트 바로가기</strong></a>
+</p>
+
+<details>
+  
+<summary><h3>🌿 UgVeg: 흙내음 상점</h3></summary>
+  
 > 팀 프로젝트
 
 <strong>React · TypeScript · Next.js · Tailwind</strong>
@@ -63,20 +81,12 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 🔗 [Visit Project](https://ugveg.vercel.app/)  
 📘 [Repository](https://github.com/FRONTENDBOOTCAMP-13th/Final-13-13tachi)
 
-<details>
-<summary><strong>🛠 담당 기능 보기</strong></summary>
-
-- 메인(Index) 페이지 개발
-- 상품 리스트 및 상품 상세 페이지 개발
-- 상품 검색 기능 구현
-- 상품–레시피 연동 로직 구현
-- 상품 찜하기 및 개별 주문 기능 구현
-
 </details>
 
----
+<details>
+  
+<summary><h3>🌙 WLC MOONLIGHT</h3></summary>
 
-### 🌙 **WLC MOONLIGHT**
 > 개인 프로젝트
 
 <strong>React · Local Storage </strong>
@@ -90,21 +100,11 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 🔗 [Visit Project](https://wlcmoonlight.vercel.app/)  
 📘 [Repository](https://github.com/onewayay/WLC-MOONLIGHT)
 
-<details>
-<summary><strong>🛠 주요 기능 보기</strong></summary>
-
-- 웨스트민스터 대요리문답 전체 문답의 분석된 구조·구문 및 성경 근거 구절 제공
-- 한글 / 영어 문답 전환 기능 구현
-- 다크 / 라이트 테마 전환 기능 구현
-- 문항 번호 및 키워드 기반 문답 검색 기능 구현
-- 각주 성경 구절과 해당 문답 간 매칭 기능 제공
-- 사용자별 최근 열람한 문답 기록 제공
-
 </details>
 
----
-
-### 🃏 **Pokémon Card Collection**
+<details>
+<summary><h3>🃏 Pokémon Card Collection</h3></summary>
+  
 > 팀 프로젝트
 
 <strong>HTML · CSS · JavaScript · Local Storage</strong>
@@ -117,20 +117,11 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 🔗 [Visit Project](https://pokemon-cc.netlify.app/)  
 📘 [Repository](https://github.com/FRONTENDBOOTCAMP-13th/JS-04-404-Not-Found)
 
-<details>
-<summary><strong>🛠 담당 기능 보기</strong></summary>
-
-- 프로젝트 전체 로직 설계
-- 프로젝트 인트로 페이지
-- Town 페이지 캐릭터 이동 및 페이지 이동 기능 구현
-- 공통 스타일 시스템 구축
-- 공통 기능 구현 (Local Storage 기반 사용자 정보 및 도감 get/set, 뒤로가기 버튼 및 소리 on/off 버튼 기능)
-
 </details>
 
----
-
-### 🗂️ **Mudo Playground: ALL MUDO**
+<details>
+<summary><h3>🗂️ Mudo Playground: ALL MUDO</h3></summary>
+  
 > 팀 프로젝트
 
 <strong>React · TypeScript · GSAP</strong>
@@ -143,18 +134,12 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 🔗 [Visit Project](https://mudo-playground.vercel.app/)  
 📘 [Repository](https://github.com/mudo-labs/mudo-playground)
 
-<details>
-<summary><strong>🛠 담당 기능 보기</strong></summary>
-
-- 프로젝트 기획
-- 메인(Index) 페이지 개발
-- 짤 순서 맞추기 미니게임 로직 구현
-
 </details>
 
----
+<details>
+  
+<summary><h3>🍔 킹버거</h3></summary>
 
-### 🍔 **킹버거**
 > 팀 프로젝트
 
 <strong>HTML · Tailwind · JavaScript</strong>
@@ -163,13 +148,6 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 
 🔗 [Visit Project](https://1rem.netlify.app/)  
 📘 [Repository](https://github.com/FRONTENDBOOTCAMP-13th/1rem)
-
-<details>
-<summary><strong>🛠 담당 기능 보기</strong></summary>
-
-- STORY 하위의 모든 페이지 (브랜드, Why 버거킹, ESG 경영, Smart QSR, 수상실적, 광고영상)
-- 폰트 설정 및 관리
-- 폴더 구조 설계
 
 </details>
 
