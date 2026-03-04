@@ -86,12 +86,31 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 
 <details>
   
+<summary><strong>🍦 AiScReam</strong></summary>
+<br/>
+
+> 팀 프로젝트
+
+<strong>React · TypeScript · Next.js · Tailwind · OpenAI API</strong>
+
+AI를 활용해 블로그 글 생성, 편집, 노션 발행과 다운로드까지 지원하는 개발자용 기술 블로그 생성 서비스
+<p>
+  <img width="500" src="https://raw.githubusercontent.com/onewayay/onewayay/main/assets/AiScReam-cover.jpg" alt="AiScReam" />
+</p>
+
+🔗 [Visit Project](https://aiscream.vercel.app/)  
+📘 [Repository](https://github.com/SiwonYoo/aiscream)
+
+</details>
+
+<details>
+  
 <summary><strong>🌙 WLC MOONLIGHT</strong></summary>
 <br/>
 
 > 개인 프로젝트
 
-<strong>React · Local Storage </strong>
+<strong>React · CSS · Context API · Local Storage</strong>
 
 웨스트민스터 대요리문답 1문부터 196문까지의 한글 · 영문 문답과 각 문답에 인용된 성경 근거 구절을 함께 제공하는 신앙 학습 사이트
 
