@@ -67,25 +67,6 @@ React 기반 웹 애플리케이션과 인터랙션 구현에 관심이 많습�
 
 <details>
   
-<summary><strong>🌿 UgVeg: 흙내음 상점</strong></summary>
-<br/>
-
-> 팀 프로젝트
-
-<strong>React · TypeScript · Next.js · Tailwind</strong>
-
-버려지는 못난이 농산물을 합리적인 가격에 제공하고, 그 농산물로 만든 레시피를 함께 나누는 커뮤니티 기반 쇼핑 플랫폼
-<p>
-  <img width="500" src="https://raw.githubusercontent.com/onewayay/onewayay/main/assets/ugveg-cover.png" alt="Ugveg: 흙내음 상점" />
-</p>
-
-🔗 [Visit Project](https://ugveg.vercel.app/)  
-📘 [Repository](https://github.com/FRONTENDBOOTCAMP-13th/Final-13-13tachi)
-
-</details>
-
-<details>
-  
 <summary><strong>🍦 AiScReam</strong></summary>
 <br/>
 
@@ -120,6 +101,25 @@ AI를 활용해 블로그 글 생성, 편집, 노션 발행과 다운로드까�
 
 🔗 [Visit Project](https://wlcmoonlight.vercel.app/)  
 📘 [Repository](https://github.com/onewayay/WLC-MOONLIGHT)
+
+</details>
+
+<details>
+  
+<summary><strong>🌿 UgVeg: 흙내음 상점</strong></summary>
+<br/>
+
+> 팀 프로젝트
+
+<strong>React · TypeScript · Next.js · Tailwind</strong>
+
+버려지는 못난이 농산물을 합리적인 가격에 제공하고, 그 농산물로 만든 레시피를 함께 나누는 커뮤니티 기반 쇼핑 플랫폼
+<p>
+  <img width="500" src="https://raw.githubusercontent.com/onewayay/onewayay/main/assets/ugveg-cover.png" alt="Ugveg: 흙내음 상점" />
+</p>
+
+🔗 [Visit Project](https://ugveg-oneway-2xqq.vercel.app/)  
+📘 [Repository](https://github.com/FRONTENDBOOTCAMP-13th/Final-13-13tachi)
 
 </details>
 
@@ -179,7 +179,15 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 
 ## ✍️ Study
 
-### 🦎 NoBreath-DeepDive
+### 📝 Oneway's Study Note
+
+프론트엔드 면접을 위한 스터디 노트
+
+🔗 [Repository](https://github.com/onewayay/oneway-study-note)
+
+---
+
+🦎 NoBreath-DeepDive
 
 모던 자바스크립트 딥다이브 스터디
 
@@ -195,11 +203,14 @@ Gacha 와 Slot 미니 게임을 통해, 포켓몬 카드를 수집하여 수집�
 
 ---
 
-### 🧩 한 입 시리즈
+### 🧩 인프런
 
 - 한 입 크기로 잘라먹는 리액트
 - 한 입 크기로 잘라먹는 타입스크립트
 - 한 입 크기로 잘라먹는 Next.js
+- 한 입 크기로 잘라먹는 React.js 실전 프로젝트 - SNS 편
+- 한 입 크기로 잘라먹는 바이브코딩 (with Claude Code)
+- 제대로 파는 Git & GitHub - by 얄코
 
 ---
 
